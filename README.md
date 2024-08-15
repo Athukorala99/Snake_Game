@@ -21,13 +21,13 @@ A classic Snake Game built with React, CSS, HTML, and JavaScript. Control the sn
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/Athukorala99/snake_game.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd snake-game
+    cd snake_game
     ```
 
 3. **Install Dependencies:**
